@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'chart.dart';
+import '../chart.dart';
 
 class StatScreen extends StatelessWidget {
   const StatScreen({super.key});
