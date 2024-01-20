@@ -4,7 +4,7 @@ import 'package:expenses_tracker/ui/home/screens/main_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../../stats/screens/stats.dart';
+import '../../stats/screens/stats_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
